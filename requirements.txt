@@ -1,0 +1,4 @@
+aiohttp==3.9.5
+fake_useragent==1.4.0
+beautifulsoup4==4.12.3
+asyncio==3.4.3
